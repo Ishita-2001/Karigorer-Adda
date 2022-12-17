@@ -1,36 +1,70 @@
-<div align = 'center'>
-<h1> :arrow_forward: কারিগরের Adda :arrow_backward: </h1>
-<h3> Choice of Each Bengalees' </h3>
-<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-</div>
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<p align = 'justify'><br>
-<b>Karigorer Adda</b> is an e-commerce platform that will provide the opportunity to the consumers as well as the manufacturers to grow in the market through the handicrafts products of West Bengal. We all know that, handicrafts products of Bengal, are in high demand in the world-wide market, but due to lack of exposures neither the consumers are getting the products nor the makers are having the enthusiasm to produce much amount of products. Which caused the lack of connection between the consumers and makers and from that the price of the handicrafts products are increasing due to high demand and lack of manufacturing procedure. </p>
+## Available Scripts
 
+In the project directory, you can run:
 
-  <p align = 'justify'>To solve this issue, we are a group of 6 people gathered together and created a platform which will solve this issue on a high. Nowadays we all know about the e-commerce platforms like amazon, Filpkart, Snapdeal, Myntra, Meesho (recently launched), and many more. But you have not seen any platfrm which will bring the handicrafts products in your laptops, computers or mobile's screen. That's why we are here, to launch the Karigorer Adda platform to bring the handicrafts products of your choice at your device's screens.</p>
-  
-  <h3> :yellow_circle: What are the products enlisted here? </h3>
-  
-  <p align = 'justify'>Talking about products we have the main attractions of the handicrafts of Bengal. They are Terracotta Products, Dokra Products, Daker Kaj, Chau Masks, Sarees, Sculptures and many more!</p>
-  
-  <h3> :yellow_circle: What is the tech-stack used here? </h3>
-  
-  <p align = 'justify'> We have used the PHP and MySQL combo here to develope this whole platform which is basically in the form of a website. The front end is developed in PHP, CSS and JS and the back end is built using the MySQL database. Here Apache is also used for the server hostage of the website. This is a proper example of a Full Stack Developement from the developer point of view!</p>
-  
-  <h3> :yellow_circle: Let's meet the developers here, </h3>
-  <table align = 'center'>
-  <tr>
-<td align="center"><a href="https://github.com/Ishita-2001"><img src="https://avatars.githubusercontent.com/u/85105978?v=4" width="80px;" alt=""/><br /><sub><b> Ishita Pahari</b></sub></a></td>
-<td align="center"><a href="https://github.com/UdayanMisra2000"><img src="https://avatars.githubusercontent.com/u/83898487?v=4" width="80px;" alt=""/><br /><sub><b>Udayan Misra</b></sub></a></td>
-<td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
-<td align="center"><a href="https://github.com/Digbijoy08"><img src="https://avatars.githubusercontent.com/u/83782347?v=4" width="80px;" alt=""/><br /><sub><b>Digbijoy Dasgupta</b></sub></a></td>
-<td align="center"><a href="https://github.com/Shreya0011"><img src="https://avatars.githubusercontent.com/u/87656303?v=4" width="80px;" alt=""/><br /><sub><b>Shreya Bose</b></sub></a></td>
-<td align="center"><a href="https://github.com/Raktim1246"><img src="https://avatars.githubusercontent.com/u/75154706?v=4" width="80px;" alt=""/><br /><sub><b>Raktim Karmakar</b></sub></a></td>   
+### `npm start`
 
-  </tr>
-</table>
-</p>
-  
-<p align = 'center'><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
